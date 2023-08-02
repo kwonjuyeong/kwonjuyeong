@@ -9,6 +9,6 @@ etc..
 <br/><br/><br/>😄 Here is my Blog
 <br/><br/><a href="https://kjy1ho.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
-</a>
+</a> click me!
 
 
