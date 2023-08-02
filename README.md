@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0067a3&height=150&section=header&text=KwonJuyeong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 **kwonjuyeong/kwonjuyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-//Java
 <img src="https://img.shields.io/badge/Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white">
 //MysQL
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
