@@ -6,8 +6,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React%20IDE&logoColor=white">
-//github
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
