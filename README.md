@@ -15,6 +15,6 @@
 etc..
 
 😄 Here is my Blog
+<a href="https://kjy1ho.tistory.com/"><img src="https://img.shields.io/badge/tistory-3DDC84?style=flat-square&logo=tistory&logoColor=white"/></a>
 
-<a href="https://kjy1ho.tistory.com/)https://kjy1ho.tistory.com/"><img src="<img src="https://img.shields.io/badge/tistory -000000?style=for-the-badge&logo=tistory%20IDE&logoColor=white">"/></a>
 
