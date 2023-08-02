@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0067a3&height=150&section=header&text=KwonJuyeong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0067a3&height=150&section=header&text=JuJuAndroid&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 👋 Hi, Welcome to my Profile
 <br/>- Android Kotlin Developer 1 year
