@@ -3,7 +3,7 @@
 **kwonjuyeong/kwonjuyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 //Java
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white">
 //MysQL
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 //Oracle
