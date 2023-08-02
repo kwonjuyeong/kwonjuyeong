@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/jira software-0052CC?style=for-the-badge&logo=jira software%20IDE&logoColor=white">
 etc..
 
+
+
 😄 Here is my Blog
 
 <a href="https://kjy1ho.tistory.com/">
