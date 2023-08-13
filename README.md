@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0067a3&height=150&section=header&text=JuJuAndroid&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 👋 Hi, Welcome to my Profile
-<br/>- Android Kotlin Developer
+<br/>- Android Kotlin 개발
 (CA Partners 2021-12~2023-05)
 <br/><br/><br/>⚡ what I ever used
 <br/><br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
