@@ -16,4 +16,8 @@ etc..
 👋 Issue
 - 커밋을 잘못해서 2020~2022까지의 커밋 기록이 누락되었다.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mtjin)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![tmddjs210](http://mazassumnida.wtf/api/generate_badge?boj=tmddjs210)](https://solved.ac/tmddjs210)
+
 
