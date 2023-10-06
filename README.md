@@ -19,6 +19,6 @@ etc..
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonjuyeong)](https://github.com/anuraghazra/github-readme-stats)
 
  
- [![Kwon](http://mazassumnida.wtf/api/generate_badge?boj=tmddjs210)](https://solved.ac/tmddjs210)
+<img src="http://mazandi.herokuapp.com/api?handle=kjy1ho&theme=warm"/>
 
 
