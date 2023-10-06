@@ -16,9 +16,5 @@ etc..
 👋 Issue
 - 커밋을 잘못해서 2020~2022까지의 커밋 기록이 누락되었다.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonjuyeong)](https://github.com/anuraghazra/github-readme-stats)
-
- 
-<img src="http://mazandi.herokuapp.com/api?handle=kjy1ho&theme=warm"/>
 
 
