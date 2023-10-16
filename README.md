@@ -17,4 +17,6 @@ etc..
 - 커밋을 잘못해서 2020~2022까지의 커밋 기록이 누락되었다.
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjy1ho)](https://solved.ac/kjy1ho/)
+
 
