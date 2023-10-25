@@ -2,10 +2,6 @@
 
 👋 Hi, Welcome to my Profile
 
-🍃 Career
-- CA Partners(2021-12~2023-05)
-<br/><br/>Android Kotlin App developer
-
 <br/><br/>⚡ what I ever used
 <br/><br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">  <br/><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/jira software-0052CC?style=for-the-badge&logo=jira software%20IDE&logoColor=white">
@@ -15,6 +11,9 @@ etc..
 <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 </a> click me!
 
+🍃 Career
+- CA Partners(2021-12~2023-05)
+<br/><br/>Android Kotlin App developer
 
 👋 Issue
 - 커밋을 잘못해서 2020~2022까지의 커밋 기록이 누락되었다.
