@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0067a3&height=150&section=header&text=KwonJuyeong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55">
-</div>
+
 
 <br>
 
@@ -8,6 +6,10 @@
  🌱 매일매일 꾸준히 성장하는 개발자
 </h1>
 <br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0067a3&height=150&section=header&text=KwonJuyeong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55">
+</div>
 
 <p align="center">
  <img src="https://github.com/kwonjuyeong/kwonjuyeong/assets/57522230/25423a11-4381-422b-918a-31c921b98ddd" width="300"/>
