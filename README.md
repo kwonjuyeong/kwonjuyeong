@@ -23,9 +23,10 @@
 
 <br><br>
 # Career
-- CA Partners (2021-12~2023-05)
-  - Android Kotlin App 개발
- 
+  ## CA Partners (2021-12~2023-05)
+    - Android Kotlin App 개발
+
+<br><br>
 # 𝙎𝙏𝘼𝘾𝙆 & 𝙏𝙊𝙊𝙇
 ## 🤖 Android
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="25px"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" height="25px">
