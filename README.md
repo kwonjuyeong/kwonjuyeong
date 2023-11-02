@@ -21,12 +21,18 @@
  <a href="https://kjy1ho.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white" height="20px"/></a>
 </div>
 
-
+<br><br>
+# Career
+- CA Partners (2021-12~2023-05)
+  - Android Kotlin App 개발
+ 
 # 𝙎𝙏𝘼𝘾𝙆 & 𝙏𝙊𝙊𝙇
 ## 🤖 Android
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="25px"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" height="25px">
 
-<img src="https://img.shields.io/badge/Coroutine-black?style=flat&logo=coroutine&logoColor=white" height="25px"> <img src="https://img.shields.io/badge/Retrofit2-black?style=flat&logo=retrofit&logoColor=white" height="25px">
+<img src="https://img.shields.io/badge/Coroutine-81c147?style=flat&logo=coroutine&logoColor=white" height="25px"> <img src="https://img.shields.io/badge/Retrofit2-81c147?style=flat&logo=retrofit&logoColor=white" height="25px"> <img src="https://img.shields.io/badge/okhttp-81c147?style=flat&logo=okhttp&logoColor=white" height="25px"> <img src="https://img.shields.io/badge/legacy-81c147?style=flat&logo=okhttp&logoColor=white" height="25px">
+<img src="https://img.shields.io/badge/DataBinding-81c147?style=flat&logo=databinding&logoColor=white" height="25px">
+<img src="https://img.shields.io/badge/Rxjava-81c147?style=flat&logo=rxjava&logoColor=white" height="25px"> etc..
 
 ## ⚙️ Back
 <img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=java&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" height="25px"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25px"/> 
@@ -41,15 +47,11 @@
 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=intellijidea&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Android Studio-81c147?style=flat&logo=androidstudio&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Jupyter-f27500?style=flat&logo=jupyter&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/VScode-00BFFF?style=flat&logo=visualstudiocode&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" height="25px">
 
-<br><br>
-# Career
-- CA Partners (2021-12~2023-05)
-  - Android Kotlin App developer
- 
-<br><br>
-# Issue
-- 커밋을 잘못해서 2020~2022까지의 커밋 기록이 누락되었다.
 
 <br><br>
 # BaekJoon Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjy1ho)](https://solved.ac/kjy1ho/)
+
+<br><br>
+# Issue
+- 커밋을 잘못해서 2020~2022까지의 커밋 기록이 누락되었다.
