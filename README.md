@@ -48,6 +48,8 @@
 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=intellijidea&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Android Studio-81c147?style=flat&logo=androidstudio&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Jupyter-f27500?style=flat&logo=jupyter&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/VScode-00BFFF?style=flat&logo=visualstudiocode&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" height="25px">
 
+## 하고싶은 것
+- 임베디드, C++, C#...
 
 <br><br>
 # BaekJoon Solved
