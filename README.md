@@ -48,9 +48,9 @@
 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=intellijidea&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Android Studio-81c147?style=flat&logo=androidstudio&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Jupyter-f27500?style=flat&logo=jupyter&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/VScode-00BFFF?style=flat&logo=visualstudiocode&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" height="25px">
 
-## 하고싶은 것
-- 임베디드, C++, C#...
-
+## 공부 할 것
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 <br><br>
 # BaekJoon Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjy1ho)](https://solved.ac/kjy1ho/)
