@@ -28,6 +28,11 @@
 
 <br><br>
 # 𝙎𝙏𝘼𝘾𝙆 & 𝙏𝙊𝙊𝙇
+
+## 공부 중
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
 ## 🤖 Android
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="25px"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" height="25px">
 
@@ -47,11 +52,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white" height="25px"/> 
 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=intellijidea&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Android Studio-81c147?style=flat&logo=androidstudio&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Jupyter-f27500?style=flat&logo=jupyter&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/VScode-00BFFF?style=flat&logo=visualstudiocode&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" height="25px">
-
-## 공부 할 것
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 <br><br>
+
 # BaekJoon Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjy1ho)](https://solved.ac/kjy1ho/)
 
