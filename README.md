@@ -23,6 +23,8 @@
 
 <br><br>
 # Career
+  ## NextEye (2024-04~재직중)
+    - 머신비전
   ## CA Partners (2021-12~2023-05)
     - Android Kotlin App 개발
 
