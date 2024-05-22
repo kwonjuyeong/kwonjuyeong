@@ -30,10 +30,9 @@
 
 <br><br>
 # 𝙎𝙏𝘼𝘾𝙆 & 𝙏𝙊𝙊𝙇
-
-## 공부 중
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+## 장비 SoftWare
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ## 🤖 Android
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="25px"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" height="25px">
@@ -49,16 +48,17 @@
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Json WebTokens-black?style=flat&logo=jsonwebtokens&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/WebSocket Stomp-black?style=flat&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" height="25px"/> 
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=springjpa&logoColor=white" height="25px"/> <br>
 ## 🖥️ Front
-<img src="https://img.shields.io/badge/React.js-4FC08D?style=flat&logo=react&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Axios-8A2BE2?style=flat&logo=axios&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Redux-8A2BE2?style=flat&logo=redux&logoColor=white" height="25px"/><br>
+
 ## 🛠️ Tools & Others
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white" height="25px"/> 
 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=intellijidea&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Android Studio-81c147?style=flat&logo=androidstudio&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Jupyter-f27500?style=flat&logo=jupyter&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/VScode-00BFFF?style=flat&logo=visualstudiocode&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" height="25px">
+
+<img src="https://img.shields.io/badge/React.js-4FC08D?style=flat&logo=react&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Axios-8A2BE2?style=flat&logo=axios&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Redux-8A2BE2?style=flat&logo=redux&logoColor=white" height="25px"/><br>
 <br><br>
 
 # BaekJoon Solved
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjy1ho)](https://solved.ac/kjy1ho/)
 
-<br><br>
 # Issue
 - 커밋을 잘못해서 2020~2022까지의 커밋 기록이 누락되었습니다.
