@@ -30,7 +30,7 @@
 
 <br><br>
 # 𝙎𝙏𝘼𝘾𝙆 & 𝙏𝙊𝙊𝙇
-## 장비 SoftWare
+## 🖥️ 장비 SoftWare
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
@@ -47,7 +47,6 @@
 
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Json WebTokens-black?style=flat&logo=jsonwebtokens&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/WebSocket Stomp-black?style=flat&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" height="25px"/> 
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=springjpa&logoColor=white" height="25px"/> <br>
-## 🖥️ Front
 
 ## 🛠️ Tools & Others
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white" height="25px"/> 
