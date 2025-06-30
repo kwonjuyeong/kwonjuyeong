@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="center">
- 🌱 열심히 하다보면 좋은 날이 올거야
+ 🌱 열정있게
 </h1>
 <br>
 
@@ -24,9 +24,9 @@
 <br><br>
 # Career
   ## NextEye (2024-04~재직중)
-    - 머신비전
+    - Roll Inspector 장비[C++] 개발
   ## CA Partners (2021-12~2023-05)
-    - Android Kotlin App 개발
+    - Android App[Kotlin] 개발
 
 <br><br>
 # 𝙎𝙏𝘼𝘾𝙆 & 𝙏𝙊𝙊𝙇
